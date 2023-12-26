@@ -1,5 +1,6 @@
 # Models_classification
 https://colab.research.google.com/drive/13WEJuSOLlz08uRg_ObKPsA2R4htxAiqk
+https://nbviewer.org/github/SpeZzz0R/Models_classification/blob/main/models_classification.ipynb
 
 ## О проекте
 Анализ данных с помощью различных моделей машинного обучения.  
